@@ -5,9 +5,14 @@
 
 ## Table of content
 
+- [Demo](#demo)
 - [How it works](#how-it-works)
 - [Built With](#built-with)
 - [Author](#author)
+
+## Demo
+
+Try it here --> [bot-spam](https://hackclub.enterprise.slack.com/archives/C0P5NE354)
 
 ## How it works
 
