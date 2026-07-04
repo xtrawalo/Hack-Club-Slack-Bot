@@ -12,7 +12,9 @@
 
 ## Demo
 
-Try it here --> [bot-spam](https://hackclub.enterprise.slack.com/archives/C0P5NE354)
+Try it out in **#bot-spam** → https://hackclub.enterprise.slack.com/archives/C0P5NE354
+
+View the project on **Stardance** → https://stardance.hackclub.com/projects/29947
 
 ## How it works
 
